@@ -2,7 +2,7 @@
 > “I am in chains. Don't touch my chains.” 
 > ― Franz Kafka
 
-The latest [research](http://dilbert.com/strip/2008-05-08) on CAPTCHA's has discovered that 90% of users find CAPTCHAs to be nightmarish, hellish, infernal torture devices invented by a mad scientist who was having a particularly evil day, and the other 10% of users found CAPTCHAs to be tolerable.
+The latest [research](http://dilbert.com/strip/2008-05-08) on CAPTCHAs has discovered that 90% of users find CAPTCHAs to be nightmarish, hellish, infernal torture devices invented by a mad scientist who was having a particularly evil day, and the other 10% of users found CAPTCHAs to be tolerable.
 
 ### *kafcha*, was created to eliminate those 10%.
 
