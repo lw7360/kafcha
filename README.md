@@ -2,7 +2,7 @@
 > “I am in chains. Don't touch my chains.” 
 > ― Franz Kafka
 
-The latest [research](http://dilbert.com/strip/2008-05-08) on CAPTCHAs has discovered that 90% of users find CAPTCHAs to be nightmarish, hellish, infernal torture devices invented by a mad scientist who was having a particularly evil day, and the other 10% of users found CAPTCHAs to be tolerable.
+The latest [research](http://dilbert.com/strip/2008-05-08) on CAPTCHAs has discovered that 90% of users find CAPTCHAs to be nightmarish, hellish, infernal torture devices, and the other 10% of users found them to be tolerable.
 
 ### *kafcha*, was created to eliminate those 10%.
 
@@ -19,11 +19,16 @@ The latest [research](http://dilbert.com/strip/2008-05-08) on CAPTCHAs has disco
 > “I am a cage, in search of a bird.” 
 > ― Franz Kafka
 
-Place the following script where you want misery to appear:
+Render kafcha on your website by including the necessary JavaScript and a DIV element with the class name `kafcha`.
 
 ```html
-  <script>
-  </script>
+  <script src="/kafcha.js"></script>
+  ...
+
+  <form action="?" method="POST">
+    <div class="kafcha"></div>
+    <input type="submit" value="Submit">
+  </form>
 
 ```
 
